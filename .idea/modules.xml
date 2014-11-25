@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Iteration2/Iteration2.iml" filepath="$PROJECT_DIR$/Iteration2/Iteration2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Iteration3/Iteration3.iml" filepath="$PROJECT_DIR$/Iteration3/Iteration3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iteration1/iteration1.iml" filepath="$PROJECT_DIR$/iteration1/iteration1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/iteration1_1/iteration1_1.iml" filepath="$PROJECT_DIR$/iteration1_1/iteration1_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Iteration4/iteration4.iml" filepath="$PROJECT_DIR$/Iteration4/iteration4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Iteration5/iteration5.iml" filepath="$PROJECT_DIR$/Iteration5/iteration5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Iteration6/iteration6.iml" filepath="$PROJECT_DIR$/Iteration6/iteration6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Iteration7/iteration7.iml" filepath="$PROJECT_DIR$/Iteration7/iteration7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Iteration8/iteration8.iml" filepath="$PROJECT_DIR$/Iteration8/iteration8.iml" />
+    </modules>
+  </component>
+</project>
+
