@@ -1,4 +1,4 @@
-package com.gof.iteration4.algo.data;
+package com.gof.iteration4.data;
 
 import com.gof.customer.core.DataAPI;
 

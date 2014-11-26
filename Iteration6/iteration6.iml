@@ -18,6 +18,7 @@
         <SOURCES />
       </library>
     </orderEntry>
+    <orderEntry type="library" scope="TEST" name="org.powermock:powermock-mockito-release-full:1.4.12" level="project" />
   </component>
 </module>
 

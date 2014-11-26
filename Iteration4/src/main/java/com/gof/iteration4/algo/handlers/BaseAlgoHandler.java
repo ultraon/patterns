@@ -1,8 +1,8 @@
 package com.gof.iteration4.algo.handlers;
 
 import com.gof.customer.core.DataAPI;
-import com.gof.iteration4.algo.data.DefaultRawDataExtractor;
-import com.gof.iteration4.algo.data.IRawDataExtractor;
+import com.gof.iteration4.data.DefaultRawDataExtractor;
+import com.gof.iteration4.data.IRawDataExtractor;
 
 /**
 * Created by vitaliypopov on 25.11.14.

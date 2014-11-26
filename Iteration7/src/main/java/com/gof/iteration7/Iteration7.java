@@ -1,7 +1,7 @@
 package com.gof.iteration7;
 
 /**
- * Bridge pattern
+ * Abstract Factory pattern
  */
 public class Iteration7 {
 
